@@ -1,5 +1,7 @@
 # Identify-Customer-Segments
 使用Arvato的資料進行客戶分群
+[jupyternotebook](https://nbviewer.jupyter.org/github/JHL01/Identify-Customer-Segments/blob/master/Identify_Customer_Segments.ipynb)
+
 
 >### 運作環境：
 - Python version == 3.6.4
